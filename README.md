@@ -22,7 +22,7 @@
 <h2>📄 Notes/Guide:</h2>
 
 - <b>Network</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installing PFsense](https://github.com/tg222eu/PFsenseInstallation/tree/main)
   - 
 <h2>📺 Great Youtube Channels</h2>
 
