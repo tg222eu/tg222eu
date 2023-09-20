@@ -18,6 +18,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
+<h2>📄 Notes/Guide:</h2>
+
+- <b>Network</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 <h2>📺 Great Youtube Channels</h2>
 
 - [Watsininfosec](https://www.youtube.com/@WatsonInfosec)
