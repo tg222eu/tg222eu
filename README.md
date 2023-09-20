@@ -29,3 +29,8 @@
 - [Watsininfosec](https://www.youtube.com/@WatsonInfosec)
 - [Ls111cyberEd](https://www.youtube.com/@ls111cyberEd)
 - [Mad Hat](https://www.youtube.com/@madhatistaken)
+
+<h2>🔗 Great Webpages</h2>
+
+- [CertSE](https://https://www.cert.se/)
+- [CisaGOV](https://www.cisa.gov/)
