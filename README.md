@@ -25,6 +25,7 @@
 
 <h2>🔗 Great Webpages</h2>
 
+<h4>Daily news</h4>
 - [CertSE](https://https://www.cert.se/)
 - [CisaGOV](https://www.cisa.gov/)
   <h4>Articaft Analyser</h4>
@@ -35,11 +36,15 @@
 - [WhoIs Lookup](https://whois.domaintools.com/)
 - [PhishTool](https://www.phishtool.com/)
 - [TalosIntelligence](https://www.talosintelligence.com/talos_file_reputation)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
+  <h4>vulnerability</h4>
+- [Mitre ATT&CK](https://attack.mitre.org/)
+- [CVEdetails](https://www.cvedetails.com/)
+- [NIST](https://nvd.nist.gov/vuln)
+  <h4>Challanges</h4>
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+
+  <h4>Cheatsheet</h4>
+- [Hunt Evil](https://www.sans.org/posters/hunt-evil/)
 - [CisaGOV](https://www.cisa.gov/)
 - [CisaGOV](https://www.cisa.gov/)
 - [CisaGOV](https://www.cisa.gov/)
