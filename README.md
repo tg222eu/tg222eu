@@ -43,12 +43,24 @@
   <h4>Challanges</h4>
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 
+<h4>Learning Platforms</h4>
+- [BlueTeamLabOnline](https://blueteamlabs.online/)
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.com/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+
   <h4>Cheatsheet</h4>
 - [Hunt Evil](https://www.sans.org/posters/hunt-evil/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- [CisaGOV](https://www.cisa.gov/)
-- 
-https://kryptera.se/guide-till-sakrare-containers/
+
+<h4>SIEM Reading material</h4>
+- [What is SIEM?](https://www.varonis.com/blog/what-is-siem)
+- [SIEM Architecture](https://www.exabeam.com/explainers/siem/siem-architecture/)
+- [What to log in a SIEM](https://cybersecurity.att.com/blogs/security-essentials/what-kind-of-logs-for-effective-siem-implementation)
+- [SIEM Rules and models](https://www.exabeam.com/siem/siem-threat-detection-rules-or-models/)
+- [SIEM Alert tuning: Best practice](https://www.redlegg.com/blog/siem-alert)
+- [Detect a security threat in event log](https://blog.netwrix.com/2014/12/03/detecting-a-security-threat-in-event-logs/)
+- [Critical log review in security incidents](https://zeltser.com/security-incident-log-review-checklist/)
+
+<h4>Guides</h4>
+- [Kryptera.se - Säkrare containers](https://kryptera.se/guide-till-sakrare-containers/)
