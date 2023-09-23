@@ -27,4 +27,23 @@
 
 - [CertSE](https://https://www.cert.se/)
 - [CisaGOV](https://www.cisa.gov/)
+  <h4>Articaft Analyser</h4>
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [URLhause](https://urlhaus.abuse.ch/)
+- [Robotex](https://www.robtex.com/)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [WhoIs Lookup](https://whois.domaintools.com/)
+- [PhishTool](https://www.phishtool.com/)
+- [TalosIntelligence](https://www.talosintelligence.com/talos_file_reputation)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- [CisaGOV](https://www.cisa.gov/)
+- 
 https://kryptera.se/guide-till-sakrare-containers/
