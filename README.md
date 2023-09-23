@@ -25,9 +25,12 @@
 
 <h2>🔗 Great Webpages</h2>
 
-<h4>Daily news</h4>
+<h4>Cybersecurity News/Reports</h4>
 - [CertSE](https://https://www.cert.se/)
 - [CisaGOV](https://www.cisa.gov/)
+- [Cofense Phising blog](https://cofense.com/blog/)
+- [APWG Phising reports](https://apwg.org/resources/)
+
   <h4>Articaft Analyser</h4>
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [URLhause](https://urlhaus.abuse.ch/)
@@ -36,10 +39,12 @@
 - [WhoIs Lookup](https://whois.domaintools.com/)
 - [PhishTool](https://www.phishtool.com/)
 - [TalosIntelligence](https://www.talosintelligence.com/talos_file_reputation)
+
   <h4>vulnerability</h4>
 - [Mitre ATT&CK](https://attack.mitre.org/)
 - [CVEdetails](https://www.cvedetails.com/)
 - [NIST](https://nvd.nist.gov/vuln)
+
   <h4>Challanges</h4>
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 
@@ -53,6 +58,9 @@
   <h4>Cheatsheet</h4>
 - [Hunt Evil](https://www.sans.org/posters/hunt-evil/)
 
+<h4>Guides</h4>
+- [Kryptera.se - Säkrare containers](https://kryptera.se/guide-till-sakrare-containers/)
+
 <h4>SIEM Reading material</h4>
 - [What is SIEM?](https://www.varonis.com/blog/what-is-siem)
 - [SIEM Architecture](https://www.exabeam.com/explainers/siem/siem-architecture/)
@@ -62,5 +70,4 @@
 - [Detect a security threat in event log](https://blog.netwrix.com/2014/12/03/detecting-a-security-threat-in-event-logs/)
 - [Critical log review in security incidents](https://zeltser.com/security-incident-log-review-checklist/)
 
-<h4>Guides</h4>
-- [Kryptera.se - Säkrare containers](https://kryptera.se/guide-till-sakrare-containers/)
+<h4>Phising Reading material</h4>
