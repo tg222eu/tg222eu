@@ -48,6 +48,7 @@
 <b>Tools</b>
   - [SpearPhisher](https://github.com/giuliacassara/awesome-social-engineering)
   - [CyberChef](https://gchq.github.io/CyberChef/)
+  - [IncidentResponse](https://www.incidentresponse.org/playbooks/)
 
 <b>Challanges</b>
   - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
@@ -64,6 +65,13 @@
 
 <b>Guides</b>
 - [Kryptera.se - Säkrare containers](https://kryptera.se/guide-till-sakrare-containers/)
+
+<b>Platforms</b>
+  - [Misp](https://www.misp-project.org/)
+  - [ThreatConnect[TIP]](https://threatconnect.com/threat-intelligence-platform/)
+  - [Anomali Security Operations Platform](https://www.anomali.com/)
+  - [ThreatQ](https://www.threatq.com/threat-intelligence-platform/)
+  - [Suricata](https://suricata.io/)
 
 <b>SIEM Reading material</b>
   - [What is SIEM?](https://www.varonis.com/blog/what-is-siem)
