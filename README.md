@@ -65,9 +65,6 @@
 <b>Guides</b>
 - [Kryptera.se - Säkrare containers](https://kryptera.se/guide-till-sakrare-containers/)
 
-<b>Tools/Frameworks</b>
-  - [CisaGOV](https://www.cisa.gov/)
-
 <b>SIEM Reading material</b>
   - [What is SIEM?](https://www.varonis.com/blog/what-is-siem)
   - [SIEM Architecture](https://www.exabeam.com/explainers/siem/siem-architecture/)
