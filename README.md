@@ -17,6 +17,8 @@
   - [Installing PFsense](https://github.com/tg222eu/PFsenseInstallation/tree/main)
   - [Installing IDS on Opnsense](https://github.com/tg222eu/OpnsenseSuricata/tree/main)
   - [OpnSense Filter/Proxy](https://github.com/tg222eu/OpnSenseProxy)
+  - [OpnSense Firewall High Availability](https://github.com/tg222eu/OPNsenseFirewallHA)
+
 <h2>📺 Great Youtube Channels</h2>
 
 - [Watsininfosec](https://www.youtube.com/@WatsonInfosec)
