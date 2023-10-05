@@ -18,6 +18,10 @@
   - [Installing IDS on Opnsense](https://github.com/tg222eu/OpnsenseSuricata/tree/main)
   - [OpnSense Filter/Proxy](https://github.com/tg222eu/OpnSenseProxy)
   - [OpnSense Firewall High Availability](https://github.com/tg222eu/OPNsenseFirewallHA)
+ 
+<h2>📺 Capture the flag</h2>
+- [CTF101](https://ctf101.org)
+- [SSL encoding and conversion](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
 
 <h2>📺 Great Youtube Channels</h2>
 
