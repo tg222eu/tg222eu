@@ -2,14 +2,8 @@
 
 <h1>👨‍💻 Projects:</h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Headline</b>
   - [Malware Analysis](https://github.com/tg222eu/MalwareAnalysis)
-- <b>PowerShell</b>
-  - [CTF Challange](https://github.com/tg222eu/CertCTF2023)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
 
 <h2>📄 Notes/Guide:</h2>
 
@@ -20,8 +14,10 @@
   - [OpnSense Firewall High Availability](https://github.com/tg222eu/OPNsenseFirewallHA)
  
 <h2>📄 Capture the flag</h2>
-
-- <b>CTF</b>
+- <b>Challanges</b>
+  - [CTF Challange](https://github.com/tg222eu/CertCTF2023)
+  
+- <b>Guides</b>
   - [CTF101](https://ctf101.org)
   - [PEM, DER, CRT, and CER: X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
   - [RSActfTool](https://github.com/RsaCtfTool/RsaCtfTool)
