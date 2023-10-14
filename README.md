@@ -18,13 +18,6 @@
 - <b>Challanges</b>
   - [Cert.se CTF](https://github.com/tg222eu/CertCTF2023)
   
-- <b>Guides/Links</b>
-  - [CTF101](https://ctf101.org)
-  - [PEM, DER, CRT, and CER: X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
-  - [RSActfTool](https://github.com/RsaCtfTool/RsaCtfTool)
-  - [RSA algorithm](https://www.javatpoint.com/rsa-encryption-algorithm)
- 
-
 <h2>📺 Great Youtube Channels</h2>
 
 - [Watsininfosec](https://www.youtube.com/@WatsonInfosec)
@@ -60,6 +53,12 @@
 
 <b>Challanges</b>
   - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+
+- <b>CTF</b>
+  - [CTF101](https://ctf101.org)
+  - [PEM, DER, CRT, and CER: X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
+  - [RSActfTool](https://github.com/RsaCtfTool/RsaCtfTool)
+  - [RSA algorithm](https://www.javatpoint.com/rsa-encryption-algorithm)
 
 <b>Learning Platforms</b>
   - [BlueTeamLabOnline](https://blueteamlabs.online/)
