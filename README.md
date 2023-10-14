@@ -54,7 +54,7 @@
 <b>Challanges</b>
   - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 
-- <b>CTF</b>
+<b>CTF</b>
   - [CTF101](https://ctf101.org)
   - [PEM, DER, CRT, and CER: X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
   - [RSActfTool](https://github.com/RsaCtfTool/RsaCtfTool)
