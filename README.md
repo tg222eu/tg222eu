@@ -4,6 +4,7 @@
 
 - <b>Headline</b>
   - [Malware Analysis](https://github.com/tg222eu/MalwareAnalysis)
+  - [SIEM Azure Sentinel](https://github.com/tg222eu/SIEMAzureSentinel)
 
 <h2>📄 Notes/Guide:</h2>
 
