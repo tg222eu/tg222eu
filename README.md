@@ -33,6 +33,7 @@
   - [CisaGOV](https://www.cisa.gov/)
   - [Cofense Phising blog](https://cofense.com/blog/)
   - [APWG Phising reports](https://apwg.org/resources/)
+  - [Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
 <b>Articaft Analyser</b>
   - [Hybrid Analysis](https://www.hybrid-analysis.com/)
