@@ -4,7 +4,7 @@
 
 - <b>Headline</b>
   - [Malware Analysis[In progress]](https://github.com/tg222eu/MalwareAnalysis)
-  - [SIEM Azure Sentinel[In progress]](https://github.com/tg222eu/SIEMAzureSentinel)
+  - [SIEM Splunk](https://github.com/tg222eu/SIEMSplunk)
   - [Webscraping Python[In progress]](https://github.com/tg222eu/Webscraping)
 
 <h2>📄 Notes/Guide:</h2>
