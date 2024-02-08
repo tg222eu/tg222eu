@@ -19,6 +19,7 @@
 
 - <b>Challanges</b>
   - [Cert.se CTF](https://github.com/tg222eu/CertCTF2023)
+  - [Challenge.fra.se Kattastrofen CTF[In progress]](https://github.com/tg222eu/KattastrofenCTF)
   
 <h2>📺 Great Youtube Channels</h2>
 
