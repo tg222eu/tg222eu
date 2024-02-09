@@ -62,7 +62,7 @@
   - [CTF101](https://ctf101.org)
   - [PEM, DER, CRT, and CER: X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
   - [RSActfTool](https://github.com/RsaCtfTool/RsaCtfTool)
-  - [RSA algorithm](https://www.javatpoint.com/rsa-encryption-algorithm)
+  - [Steganography Tool](https://georgeom.net/StegOnline/upload)
 
 <b>Learning Platforms</b>
   - [BlueTeamLabOnline](https://blueteamlabs.online/)
