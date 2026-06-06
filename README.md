@@ -4,7 +4,7 @@
 
 - <b>Headline</b>
   - [Malware Analysis[In progress]](https://github.com/tg222eu/MalwareAnalysis)
-  - [SIEM Splunk](https://github.com/tg222eu/SIEMSplunk)
+  - [SIEM Splunk - Honeypot Log Collection](https://github.com/tg222eu/SIEMSplunk)
   - [Sysmon/Suricata Splunk](https://github.com/tg222eu/SysmonSuricataSplunk)
 
 <h2>📄 Notes/Guide:</h2>
