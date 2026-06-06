@@ -2,6 +2,6 @@
 
 <h1>👨‍💻 Projects:</h1>
 
-- <b>Headline</b>
+- <b>Security & Monitoring</b>
   - [SIEM Splunk - Honeypot Log Collection](https://github.com/tg222eu/SIEMSplunk)
   - [Sysmon/Suricata Splunk](https://github.com/tg222eu/SysmonSuricataSplunk)
