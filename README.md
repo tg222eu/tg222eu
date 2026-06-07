@@ -3,7 +3,7 @@
 <h1>👨‍💻 Projects:</h1>
 
 - <b>Azure</b>
-  - [Secure Azure App Service with VNet, Managed Identity & Monitoring (In Progress )](https://github.com/tg222eu/SIEMSplunk)
+  - [Secure Azure App Service with VNet, Managed Identity & Monitoring (In Progress )](https://github.com/tg222eu/AzureLab1)
 
 - <b>Security & Monitoring</b>
   - [SIEM Splunk - Honeypot Log Collection](https://github.com/tg222eu/SIEMSplunk)
