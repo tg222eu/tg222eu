@@ -3,7 +3,7 @@
 <h1>👨‍💻 Projects:</h1>
 
 - <b>Azure</b>
-  - [Platform Foundation (In Progress )](https://github.com/tg222eu/azure-platform-foundation-tf)
+  - [Platform Foundation ( In Progress )](https://github.com/tg222eu/azure-platform-foundation-tf)
 
 - <b>Security & Monitoring</b>
   - [SIEM Splunk - Honeypot Log Collection](https://github.com/tg222eu/SIEMSplunk)
